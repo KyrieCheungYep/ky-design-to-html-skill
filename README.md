@@ -1,6 +1,6 @@
 # KY Design to HTML Skill
 
-一个适用于 Codex / Claude 的 UI 设计稿转 HTML/CSS skill。
+一个适用于 Codex / Claude 的 设计截图 转 HTML/CSS skill。
 
 它适合用在这类场景：
 
