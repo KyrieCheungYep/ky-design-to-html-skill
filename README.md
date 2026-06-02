@@ -1,6 +1,7 @@
 # KY Design to HTML Skill
 
-一个适用于 Codex / Claude 的 设计截图 转 HTML/CSS skill。
+KY Design to HTML 不是一个 UI 生图 skill。它主要面向已有 UI 截图或设计稿的 HTML/CSS 还原，重点是资产分离、画布适配、截图验证和视觉误差修正。
+适用于 Codex / Claude 的 设计截图 转 HTML/CSS skill。
 
 它适合用在这类场景：
 
