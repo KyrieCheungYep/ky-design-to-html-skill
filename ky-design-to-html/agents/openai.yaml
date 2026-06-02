@@ -1,0 +1,4 @@
+interface:
+  display_name: "KY Design to HTML"
+  short_description: "UI 设计稿转 HTML 的拆解、资产分离与截图校准流程"
+  default_prompt: "Use $ky-design-to-html to recreate this UI design as HTML/CSS with asset separation and browser screenshot validation."
